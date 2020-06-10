@@ -1,0 +1,44 @@
+*{
+    margin: 0
+}
+
+#niko {
+    background-color: black;
+    color: rgb(0, 255, 0);
+}
+
+.introductie {
+color: rgb(255, 0, 255); 
+}
+
+.titel1 {
+    background-color: black;
+    color: rgb(255, 0, 255); 
+}
+
+.ingredienten {
+    color: rgb(255, 166, 0); 
+}
+
+.titel2 {
+    background-color: black;
+    color: rgb(255, 166, 0);
+}
+
+.geschiedenis {
+    color: rgb(0, 110, 255); 
+    }
+
+.titel3 {
+    background-color: black;
+    color: rgb(0, 110, 255); 
+}
+
+.bereiding {
+    color: red;
+}
+
+.titel4 {
+    background-color: black;
+    color: red;
+}
